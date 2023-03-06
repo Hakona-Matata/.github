@@ -9,7 +9,7 @@ This project is training on microservices architecture and I'm planning to use d
  - Learn more how to show my work by good documentation!!
 
 ## The pieces in my mind for the moment: 
-- Identity Provider API
+- Identity Provider API **(Working on now!)**
 - Gateway API
 - Logging API
 - Payment API
