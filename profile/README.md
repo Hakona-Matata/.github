@@ -1,6 +1,6 @@
 ## About:
 
-This project is training on microservices architecture and I'm planning to use different tech stacks and separate the logic into different APIs (May be not the best solution in real life, But as I said, It's just a training on how to connect all the pieces together!)
+This project is training on microservices architecture and I'm planning to separate the logic into different APIs (May be not the best solution in real life, But as I said, It's just a training on how to connect all the pieces together!)
 
 ## Goal:
  - Prepare a project with every single thing I know (Just expressing my skills!).
@@ -38,7 +38,7 @@ Acutally not planning to implement it for the moment!
   - Redis
   - Firebase
 ### Testing:
- - Unit Testing: Jest
+ - Jest
  
 ### Documention:
 - Postman
