@@ -18,6 +18,8 @@ This project is training on microservices architecture and I'm planning to separ
 - Admin API
 - Freelancer API
 - Client API
+- Mailing API
+- Caching API
 
 ## Tech Stack:
 ### Programming Language: 
