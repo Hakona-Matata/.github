@@ -5,7 +5,7 @@ This project is training on microservices architecture and I'm planning to separ
 ## Goal:
  - Prepare a project with every single thing I know (Just expressing my skills!).
  - Learn how **Microservices Architecture** works.
- - Learn more about testing, such as: unit testing ,etc...
+ - Learn more about testing, such as: unit testing, integration testing, e2e testing, etc...
  - Learn more how to show my work by good documentation!!
 
 ## The pieces in my mind for the moment: 
