@@ -27,22 +27,35 @@ This project is training on microservices architecture and I'm planning to separ
    - Typescript
    
 ### Frontend: 
-Acutally not planning to implement it for the moment!
+Actually, I'm not planning to implement it for the moment!
 
 ### Backend:
- - NodeJS | Express
+ - NodeJS/ ExpressJS/ NestJS
  - APIs:
-    - RestFul APIs
+    - Restful APIs
     - GraphQl APIs
+    - gRPC
     
 ### Databases (NoSQL):
   - MongoDB
   - Redis
   - Firebase
-### Testing:
+
+### Databases (SQL):
+ - PostgreSQL
+ - MySQL
+ - SQLite
+
+### ORMs:
+ - TypeORM
+ - Sequelize
+ - Mongoose
+ - Prisma
+    
+### Testing (Unit & Integration):
  - Jest
  
-### Documention:
+### Documentation:
 - Postman
 - Swagger
 
